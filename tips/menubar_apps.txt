@@ -1,0 +1,11 @@
+整理menubar的图标： Bartender
+
+The menu bar, in other words, is a visual reminder and shortcut to some of the software that probably makes your computer yours. 
+
+I’ve got icons up there for a lot of the tools that we’ve reviewed here at ProfHacker over the years: Dropbox (of course), 
+
+TextExpander
+TextExpander – 强大的全局输入增强工具，程序员必备神器，附常用的Snippet下载
+
+
+f.lux, Alfred, BitTorrent Sync, Divvy, hotkeyEVE, iClip, 1Keyboard, Camouflage, Found, BetterSnapTool, and more.

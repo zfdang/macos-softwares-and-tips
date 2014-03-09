@@ -1,0 +1,7 @@
+EVEGet Started
+
+Learn Your Mac Shortcuts
+EVE helps you to learn shortcuts, in order to increase your productivity with MAC OS X. Every time you execute an action using the mouse, EVE will teach you the matching shortcut.
+
+===============
+

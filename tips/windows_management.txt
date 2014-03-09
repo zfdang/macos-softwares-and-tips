@@ -1,0 +1,32 @@
+今天早上花时间试用了各种窗口管理工具：cinch，divvy，optimal layout，moom。结果moom胜出。
+
+
+免费开源的工具：
+https://github.com/jigish/slate
+https://github.com/fikovnik/ShiftIt
+
+=====================
+
+SizeUP
+
+http://www.irradiatedsoftware.com/sizeup/
+
+SizeUp allows you to quickly resize and position your windows with keyboard shortcuts or a handy menu bar icon.
+
+================
+
+
+Moom使用教程：一款强大的Mac窗口管理神器
+2014-01-09 18:07:16333 次阅读分类：MAC软件评测来源：
+此前介绍过一些窗口布局软件，今天介绍的这一款Moom，仍然有自己的独到之处，有窗口布局管理需要的朋友可以尝试使用一下。 
+下载：http://www.macappbox.com/moom/
+这款多功能窗口移动兼缩放工具融合了 Cinch，Divvy，Spectacle 等同类软件的看门本领，能够快速修改当前窗口大小并放置在指定位置，Moom 默认操作点设立在了窗口左上角的绿色按钮上，将鼠标hover在绿钮上就会弹出一个选择菜单，里面有五种尺寸可选，单击选项即可变化窗口大小，并能将窗口移动到指定位置。
+
+总之，Moom 有趣的功能还有很多，譬如将窗口快速移动至 other display，感兴趣的同学赶快装上细细把玩吧！
+
+
+=========================
+
+http://mizage.com/divvy/
+
+Divvy subdivides your screen into a grid. Resizing a window with Divvy is as simple as clicking on the tool’s icon and then clicking and dragging across this grid. Your window is then resized and moved to the region that you selected. Does that sound confusing? Just watch the first 45 seconds of this video.

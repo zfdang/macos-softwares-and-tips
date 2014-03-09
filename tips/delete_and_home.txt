@@ -1,0 +1,13 @@
+1. mac delete相关快捷键
+
+从windows转到mac的童鞋，可能删除键是心中的一个痛，以前习惯一按delete什么都消失，其它mac下的delete键的设计有它的独到之处，看看与delete有关的快捷键的功能吧
+ 1、按 delete 键，实现 Windows 键盘上退格键的功能，也就是删除光标之前的一个字符（默认）；
+2、按 fn+delete 键，删除光标之后的一个字符；
+3、按 option+delete 键，删除光标之前的一个单词（英文有效）
+4、按 command+delete 键，删除光标之前整行内容；
+5、选中文件后按 command+delete，删除掉该文件；
+
+
+2.
+fn+上下左右方向键可以实现PageUP/PageDown/Home/End的功能，一个都不能少。
+
