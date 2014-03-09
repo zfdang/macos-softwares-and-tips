@@ -4,7 +4,7 @@ All applications I've installed on MacBook Pro:
 pre-defined workflows
 > [http://www.alfredworkflow.com/](http://www.alfredworkflow.com/)
 
-# BetterZip 2 (*)
+# BetterZip 2
 Create archives in most common formats and be in control of what goes in.
 > [http://macitbetter.com/](http://macitbetter.com/)
 
