@@ -42,8 +42,9 @@ OmniFocus is designed to quickly capture your thoughts and ideas to store, manag
 
 # slate
 A window management application (replacement for Divvy/SizeUp/ShiftIt).
-[config sample](https://github.com/zfdang/mac-software)
 You can stop using all these paid software now.
+
+[config sample](https://github.com/zfdang/mac-software/blob/master/slate.config)
 > [https://github.com/jigish/slate](https://github.com/jigish/slate)
 
 # Sublime text 3
