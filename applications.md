@@ -50,4 +50,3 @@ The Unarchiver is a small and easy to use program that can unarchive many differ
 # XtraFinder
 XtraFinder add Tabs and features to Mac Finder. It's free and better than TotalFinder
 > [http://www.trankynam.com/xtrafinder/](http://www.trankynam.com/xtrafinder/)
-
