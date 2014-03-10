@@ -40,6 +40,12 @@ OmniFocus is designed to quickly capture your thoughts and ideas to store, manag
 # Sequel Pro
 > [http://www.sequelpro.com/](http://www.sequelpro.com/)
 
+# slate
+A window management application (replacement for Divvy/SizeUp/ShiftIt).
+[config sample](https://github.com/zfdang/mac-software)
+You can stop using all these paid software now.
+> [https://github.com/jigish/slate](https://github.com/jigish/slate)
+
 # Sublime text 3
 > [http://www.sublimetext.com/3](http://www.sublimetext.com/3)
 
