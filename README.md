@@ -1,4 +1,7 @@
-mac-software
-============
+# mac-software
 
-softwares on my mac
+## Recommendded Applications on MBP
+> [Mac Apps](applications.md)
+
+## Config for slate
+> [config](config.slate)
