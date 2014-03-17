@@ -29,6 +29,10 @@ Just hold the ⌘-Key a bit longer to get a list of all active short cuts of the
 A clipboard manager for Mac OS X
 > [http://www.clipmenu.com/](http://www.clipmenu.com/)
 
+# Dash
+offline docs for all programming languages.
+> @App Store
+
 # Fetion
 > @ App Store
 
