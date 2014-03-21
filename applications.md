@@ -44,6 +44,11 @@ Gmail Notifier for Mac OS X (Objective-C)
 last free version is v0.9.0.
 > [https://github.com/ashchan/gmail-notifr-objc](https://github.com/ashchan/gmail-notifr-objc)
 
+# Go2Shell
+Go2Shell opens a terminal window to the current directory in Finder.
+The best way to use Go2Shell is to add it to the Finder toolbar, to do this simply drag and drop the app onto the tool bar.
+> @ App Store
+
 # GoAgent
 For GFW users
 > [http://code.google.com/p/goagent/](http://code.google.com/p/goagent/)
