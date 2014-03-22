@@ -3,6 +3,7 @@ All applications recommended for MBP:
 # Alfred 2
 pre-defined workflows sites:
 > [http://www.alfredworkflow.com/](http://www.alfredworkflow.com/)
+> [https://github.com/zenorocha/alfred-workflows](https://github.com/zenorocha/alfred-workflows)
 
 # Bartender
 Organize your menu bar apps
@@ -115,3 +116,6 @@ The Unarchiver is a small and easy to use program that can unarchive many differ
 # XtraFinder
 XtraFinder add Tabs and features to Mac Finder. It's free and better than TotalFinder
 > [http://www.trankynam.com/xtrafinder/](http://www.trankynam.com/xtrafinder/)
+
+# zsh 
+> [https://github.com/robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
