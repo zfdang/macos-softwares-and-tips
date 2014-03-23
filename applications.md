@@ -13,11 +13,6 @@ Organize your menu bar apps
 Create archives in most common formats and be in control of what goes in.
 > [http://macitbetter.com/](http://macitbetter.com/)
 
-# Caffeine
-Caffeine is a small, free app for Mac users by lighthead software. You can download it from their site or from the Mac App Store. Once installed, Caffeine sticks a small coffee cup icon in your menu bar, and presents you with its preference screen.
-> @ App store
-> [http://lightheadsw.com/caffeine/](http://lightheadsw.com/caffeine/)
-
 # Charles
 Charles is an HTTP proxy / HTTP monitor / Reverse Proxy that enables a developer to view all of the HTTP and SSL / HTTPS traffic between their machine and the Internet. This includes requests, responses and the HTTP headers (which contain the cookies and caching information).
 >[http://www.charlesproxy.com/](http://www.charlesproxy.com/)
@@ -56,6 +51,10 @@ For GFW users
 
 # Google Chrome
 > [https://www.google.com/intl/en/chrome/browser/?platform=mac](https://www.google.com/intl/en/chrome/browser/?platform=mac)
+
+# InsomniaX
+It always has been a missing feature: disabling the sleep mode on a Apple Laptop. Who does not want to use it as a big juke-box or go warwalking. The best looking server ever, especially at about one inch height. This small utility is what you will want, this small utility acts as a wrapper to the Insomnia kernel extension.
+> [http://semaja2.net/insomniaxinfo](http://semaja2.net/insomniaxinfo)
 
 # iTerm2
 iTerm2 is a replacement for Terminal and the successor to iTerm
