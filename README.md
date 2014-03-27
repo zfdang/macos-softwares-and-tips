@@ -4,4 +4,4 @@
 > [Mac Apps](applications.md)
 
 ## Config for slate
-> [config](config.slate)
+> [.slate](dotfiles/config.slate)
