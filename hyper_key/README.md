@@ -29,7 +29,8 @@ Rarely is this combination used as a hotkey combo, so it becomes a key that can 
 > [Map F19 to Hyper only](private.1.xml)
 - private.xml
 > [Map F19 to Escape and Hyper(holding)](private.2.xml)
-
+- private syntax
+> [Using KeyRemap4MacBook’s private.xml](http://iansinnott.com/blog/using-keyremap4macbooks-private-xml/)
 
 ## References
 + http://stevelosh.com/blog/2012/10/a-modern-space-cadet/
