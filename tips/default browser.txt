@@ -1,7 +1,6 @@
-Mac OS X �������Ĭ�������
+Mac OS X 如何设置默认浏览器
 
 
-��ʱ�����ǲ�ϣ���� Mac �е���κ����Ӷ��򿪵��� Safari������Ҫ�޸�Ĭ����������ã��� Mac OS X ���������Ĭ��������أ�
+有时候我们不希望在 Mac 中点击任何连接都打开的是 Safari，这需要修改默认浏览器设置，在 Mac OS X 中如何设置默认浏览器呢？
 
-�� Safari ��ƫ�����ã��ڡ�ͨ�á�ѡ����С�Ĭ�� Web �������һ���������Ϊ�Լ�ϲ���ĳ��򼴿ɣ��� Firefox��Opera��Chrome������ͼ��
-
+打开 Safari 的偏好设置，在「通用」选项卡中有「默认 Web 浏览器」一项，将其设置为自己喜欢的程序即可，如 Firefox、Opera、Chrome，如下图：

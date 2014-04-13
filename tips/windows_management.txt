@@ -1,7 +1,7 @@
-½ñÌìÔçÉÏ»¨Ê±¼äÊÔÓÃÁË¸÷ÖÖ´°¿Ú¹ÜÀí¹¤¾ß£ºcinch£¬divvy£¬optimal layout£¬moom¡£½á¹ûmoomÊ¤³ö¡£
+ä»Šå¤©æ—©ä¸ŠèŠ±æ—¶é—´è¯•ç”¨äº†å„ç§çª—å£ç®¡ç†å·¥å…·ï¼šcinchï¼Œdivvyï¼Œoptimal layoutï¼Œmoomã€‚ç»“æœmoomèƒœå‡ºã€‚
 
 
-Ãâ·Ñ¿ªÔ´µÄ¹¤¾ß£º
+å…è´¹å¼€æºçš„å·¥å…·ï¼š
 https://github.com/jigish/slate
 https://github.com/fikovnik/ShiftIt
 
@@ -16,17 +16,17 @@ SizeUp allows you to quickly resize and position your windows with keyboard shor
 ================
 
 
-MoomÊ¹ÓÃ½Ì³Ì£ºÒ»¿îÇ¿´óµÄMac´°¿Ú¹ÜÀíÉñÆ÷
-2014-01-09 18:07:16333 ´ÎÔÄ¶Á·ÖÀà£ºMACÈí¼şÆÀ²âÀ´Ô´£º
-´ËÇ°½éÉÜ¹ıÒ»Ğ©´°¿Ú²¼¾ÖÈí¼ş£¬½ñÌì½éÉÜµÄÕâÒ»¿îMoom£¬ÈÔÈ»ÓĞ×Ô¼ºµÄ¶Àµ½Ö®´¦£¬ÓĞ´°¿Ú²¼¾Ö¹ÜÀíĞèÒªµÄÅóÓÑ¿ÉÒÔ³¢ÊÔÊ¹ÓÃÒ»ÏÂ¡£ 
-ÏÂÔØ£ºhttp://www.macappbox.com/moom/
-Õâ¿î¶à¹¦ÄÜ´°¿ÚÒÆ¶¯¼æËõ·Å¹¤¾ßÈÚºÏÁË Cinch£¬Divvy£¬Spectacle µÈÍ¬ÀàÈí¼şµÄ¿´ÃÅ±¾Áì£¬ÄÜ¹»¿ìËÙĞŞ¸Äµ±Ç°´°¿Ú´óĞ¡²¢·ÅÖÃÔÚÖ¸¶¨Î»ÖÃ£¬Moom Ä¬ÈÏ²Ù×÷µãÉèÁ¢ÔÚÁË´°¿Ú×óÉÏ½ÇµÄÂÌÉ«°´Å¥ÉÏ£¬½«Êó±êhoverÔÚÂÌÅ¥ÉÏ¾Í»áµ¯³öÒ»¸öÑ¡Ôñ²Ëµ¥£¬ÀïÃæÓĞÎåÖÖ³ß´ç¿ÉÑ¡£¬µ¥»÷Ñ¡Ïî¼´¿É±ä»¯´°¿Ú´óĞ¡£¬²¢ÄÜ½«´°¿ÚÒÆ¶¯µ½Ö¸¶¨Î»ÖÃ¡£
+Moomä½¿ç”¨æ•™ç¨‹ï¼šä¸€æ¬¾å¼ºå¤§çš„Macçª—å£ç®¡ç†ç¥å™¨
+2014-01-09 18:07:16333 æ¬¡é˜…è¯»åˆ†ç±»ï¼šMACè½¯ä»¶è¯„æµ‹æ¥æºï¼š
+æ­¤å‰ä»‹ç»è¿‡ä¸€äº›çª—å£å¸ƒå±€è½¯ä»¶ï¼Œä»Šå¤©ä»‹ç»çš„è¿™ä¸€æ¬¾Moomï¼Œä»ç„¶æœ‰è‡ªå·±çš„ç‹¬åˆ°ä¹‹å¤„ï¼Œæœ‰çª—å£å¸ƒå±€ç®¡ç†éœ€è¦çš„æœ‹å‹å¯ä»¥å°è¯•ä½¿ç”¨ä¸€ä¸‹ã€‚ 
+ä¸‹è½½ï¼šhttp://www.macappbox.com/moom/
+è¿™æ¬¾å¤šåŠŸèƒ½çª—å£ç§»åŠ¨å…¼ç¼©æ”¾å·¥å…·èåˆäº† Cinchï¼ŒDivvyï¼ŒSpectacle ç­‰åŒç±»è½¯ä»¶çš„çœ‹é—¨æœ¬é¢†ï¼Œèƒ½å¤Ÿå¿«é€Ÿä¿®æ”¹å½“å‰çª—å£å¤§å°å¹¶æ”¾ç½®åœ¨æŒ‡å®šä½ç½®ï¼ŒMoom é»˜è®¤æ“ä½œç‚¹è®¾ç«‹åœ¨äº†çª—å£å·¦ä¸Šè§’çš„ç»¿è‰²æŒ‰é’®ä¸Šï¼Œå°†é¼ æ ‡hoveråœ¨ç»¿é’®ä¸Šå°±ä¼šå¼¹å‡ºä¸€ä¸ªé€‰æ‹©èœå•ï¼Œé‡Œé¢æœ‰äº”ç§å°ºå¯¸å¯é€‰ï¼Œå•å‡»é€‰é¡¹å³å¯å˜åŒ–çª—å£å¤§å°ï¼Œå¹¶èƒ½å°†çª—å£ç§»åŠ¨åˆ°æŒ‡å®šä½ç½®ã€‚
 
-×ÜÖ®£¬Moom ÓĞÈ¤µÄ¹¦ÄÜ»¹ÓĞºÜ¶à£¬Æ©Èç½«´°¿Ú¿ìËÙÒÆ¶¯ÖÁ other display£¬¸ĞĞËÈ¤µÄÍ¬Ñ§¸Ï¿ì×°ÉÏÏ¸Ï¸°ÑÍæ°É£¡
+æ€»ä¹‹ï¼ŒMoom æœ‰è¶£çš„åŠŸèƒ½è¿˜æœ‰å¾ˆå¤šï¼Œè­¬å¦‚å°†çª—å£å¿«é€Ÿç§»åŠ¨è‡³ other displayï¼Œæ„Ÿå…´è¶£çš„åŒå­¦èµ¶å¿«è£…ä¸Šç»†ç»†æŠŠç©å§ï¼
 
 
 =========================
 
 http://mizage.com/divvy/
 
-Divvy subdivides your screen into a grid. Resizing a window with Divvy is as simple as clicking on the tool¡¯s icon and then clicking and dragging across this grid. Your window is then resized and moved to the region that you selected. Does that sound confusing? Just watch the first 45 seconds of this video.
+Divvy subdivides your screen into a grid. Resizing a window with Divvy is as simple as clicking on the toolâ€™s icon and then clicking and dragging across this grid. Your window is then resized and moved to the region that you selected. Does that sound confusing? Just watch the first 45 seconds of this video.
