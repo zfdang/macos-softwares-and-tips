@@ -9,6 +9,10 @@ pre-defined workflows sites:
 Organize your menu bar apps
 > [http://www.macbartender.com/](http://www.macbartender.com/)
 
+# BetterTouchTool
+BetterTouchTool is a great, feature packed FREE app that allows you to configure many gestures for your Magic Mouse, Macbook Trackpad and Magic Trackpad. It also allows you to configure actions for keyboard shortcuts, normal mice and the Apple Remote
+> [http://www.bettertouchtool.net/](http://www.bettertouchtool.net/)
+
 # BetterZip 2
 Create archives in most common formats and be in control of what goes in.
 > [http://macitbetter.com/](http://macitbetter.com/)
@@ -45,6 +49,8 @@ Go2Shell opens a terminal window to the current directory in Finder.
 The best way to use Go2Shell is to add it to the Finder toolbar, to do this simply drag and drop the app onto the tool bar.
 > @ App Store
 
+> replaces with xtraFinder settings
+
 # GoAgent
 For GFW users
 > [http://code.google.com/p/goagent/](http://code.google.com/p/goagent/)
@@ -69,6 +75,10 @@ File comparison for Mac
 The missing Markdown editor for web developers
 > [http://mouapp.com/](http://mouapp.com/)
 
+# MPlayerX
+best media plyer for Mac OS. Do NOT use the one in app store, it was not updated any longer.
+> [http://mplayerx.org/](http://mplayerx.org/)
+
 # OmniFocus
 OmniFocus is designed to quickly capture your thoughts and ideas to store, manage, and help you process them into actionable to-do items.
 > [https://www.omnigroup.com/omnifocus](https://www.omnigroup.com/omnifocus)
@@ -82,13 +92,16 @@ Skim is a PDF reader and note-taker for OS X. It is designed to help you read an
 >[http://skim-app.sourceforge.net/](http://skim-app.sourceforge.net/)
 
 # Skype
-> []()
+Don't download it from skype.cn
+> [http://www.skype.com/zh-Hans/download-skype/skype-for-computer/](http://www.skype.com/zh-Hans/download-skype/skype-for-computer/)
 
 # slate
 A window management application (replacement for Divvy/SizeUp/ShiftIt).
 You can stop using all these paid software now.
 [config sample](https://github.com/zfdang/mac-software/blob/master/slate.config)
 > [https://github.com/jigish/slate](https://github.com/jigish/slate)
+
+> replaced by better tool
 
 # Snip
 Simple and Effective screen capturing tool in Mac OS
@@ -111,6 +124,10 @@ Mac Typing Shortcut Utility Saves You Time
 # The Unarchiver (free app, replaced by BetterZip2)
 The Unarchiver is a small and easy to use program that can unarchive many different kinds of archive files. It will open common formats such as Zip, RAR, 7-zip, Tar, Gzip and Bzip2. It will also open many older formats, such as StuffIt, DiskDoubler, LZH, ARJ and ARC. It will even open other kinds of files, like ISO and BIN disc images, some Windows .EXE installers
 > @ App Store
+
+# Thunder
+download tool for mac
+> [http://mac.xunlei.com/](http://mac.xunlei.com/)
 
 # XtraFinder
 XtraFinder add Tabs and features to Mac Finder. It's free and better than TotalFinder
