@@ -13,15 +13,15 @@ Rarely is this combination used as a hotkey combo, so it becomes a key that can 
 
 ### Steps in docs
 > [Steps-to-map-caplock-to-hyper](Steps-to-map-caplock-to-hyper.docx)
+NOTE: the above mentioned two softwares have been renamed now.
 
 ### Softwares
 
-- PCKeyboardHack, set your caps lock key to key code 80 (F19)
-> [PCKeyboardHack](https://pqrs.org/macosx/keyremap4macbook/pckeyboardhack.html.en)
+- Seil, set your caps lock key to key code 80 (F19)
+> [Seil](https://pqrs.org/osx/karabiner/seil.html.en)
 
-- KeyRemap4MacBook, map F19 to Control, Command, Option and Shift
-> [KeyRemap4MacBook](http://pqrs.org/macosx/keyremap4macbook/index.html.en
-)
+- Karabiner, map F19 to Control, Command, Option and Shift
+> [Karabiner](https://pqrs.org/osx/karabiner/index.html.en)
 
 ### Files
 
