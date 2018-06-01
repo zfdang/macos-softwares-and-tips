@@ -12,25 +12,24 @@ Rarely is this combination used as a hotkey combo, so it becomes a key that can 
 ## Guides
 
 ### Steps in docs
-> [Steps-to-map-caplock-to-hyper](Steps-to-map-caplock-to-hyper.docx)
-NOTE: the above mentioned two softwares have been renamed now.
 
 ### Softwares
 
-- Seil, set your caps lock key to key code 80 (F19)
-> [Seil](https://pqrs.org/osx/karabiner/seil.html.en)
+#### Karabiner
 
-- Karabiner, map F19 to Control, Command, Option and Shift
-> [Karabiner](https://pqrs.org/osx/karabiner/index.html.en)
+A powerful and stable keyboard customizer for macOS.
 
-### Files
+https://pqrs.org/osx/karabiner/
 
-- private.xml
-> [Map F19 to Hyper only](private.1.xml)
-- private.xml
-> [Map F19 to Escape and Hyper(holding)](private.2.xml)
-- private syntax
-> [Using KeyRemap4MacBook’s private.xml](http://iansinnott.com/blog/using-keyremap4macbooks-private-xml/)
+Use more complex rules
+Karabiner-Elements provides more complex event modifications.
+It changes keys according to the conditions.
+
+Examples:
+
+Change caps lock to command+control+option+shift key
+
+
 
 ## References
 + http://stevelosh.com/blog/2012/10/a-modern-space-cadet/
