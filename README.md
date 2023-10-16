@@ -122,3 +122,6 @@ HyperKey + x: launch application by x (see key2App in key-bindings.lua, you can 
 {"option","Ctrl"} + down: screen brightness down
 ```
 
+## 4. 某些程序无法打开的问题
+
+> sudo xattr -r -d com.apple.quarantine /Applications/YourApp.app
