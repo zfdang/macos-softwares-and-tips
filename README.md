@@ -3,6 +3,8 @@
 ## 1. MacOS Tips
 拿到电脑之后，最好能做下面的几个调整，让自己用起来更舒服：
 
+以Ventura (13.6)为例，其他版本可能会有一些差异。
+
 * Setting -> Mouse -> Tracking Speed, 根据需要调整
 * Setting -> Trackpad -> Tap to click (tap with one finger)。这样就可以轻触实现点击，不用每次都把触摸板按下去了
 * Setting -> Accessibility -> Pointer Control -> Trackpad Options -> Dragging style -> Three Finger Drag。这样就可以实现3指拖动窗口了
