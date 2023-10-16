@@ -49,7 +49,6 @@ brew install wget
 ########### Brew Cask Install List ###########
 brew install --cask appcleaner
 brew install --cask baidunetdisk
-brew install --cask bluesnooze
 brew install --cask foxitreader
 brew install --cask foxmail
 brew install --cask free-download-manager
