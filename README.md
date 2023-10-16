@@ -129,3 +129,7 @@ HyperKey + x: launch application by x (see key2App in key-bindings.lua, you can 
 解决Mac安装软件的“已损坏，无法打开。 您应该将它移到废纸篓”问题
 
 > sudo xattr -r -d com.apple.quarantine /Applications/YourApp.app
+
+更多参考:
+
+>https://sysin.org/blog/macos-if-crashes-when-opening/
