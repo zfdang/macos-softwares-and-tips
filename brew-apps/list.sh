@@ -1,6 +1,8 @@
 #!/bin/bash
+
 ########### Brew Install List ###########
 brew install blueutil
+brew install exiftool
 brew install ffmpeg
 brew install git
 brew install handbrake
@@ -13,7 +15,7 @@ brew install wget
 ########### Brew Cask Install List ###########
 brew install --cask appcleaner
 brew install --cask baidunetdisk
-brew install --cask bluesnooze
+brew install --cask balenaetcher
 brew install --cask foxitreader
 brew install --cask foxmail
 brew install --cask free-download-manager
@@ -29,7 +31,9 @@ brew install --cask omnidisksweeper
 brew install --cask onyx
 brew install --cask openconnect-gui
 brew install --cask raycast
+brew install --cask sogouinput
 brew install --cask sublime-text
+brew install --cask visual-studio-code
 brew install --cask vlc
 brew install --cask xnviewmp
 echo "And done..."
