@@ -8,7 +8,7 @@ brew install handbrake
 brew install lux
 # brew install node
 # brew install openconnect
-brew install python@3.11
+# brew install python@3.11
 brew install wget
 
 ########### Brew Cask Install List ###########
@@ -24,14 +24,16 @@ brew install --cask iina
 brew install --cask iterm2
 brew install --cask karabiner-elements
 brew install --cask koodo-reader
-brew install --cask macdown
+# brew install --cask macdown
+brew install --cask typora
 brew install --cask neteasemusic
 brew install --cask omnidisksweeper
 brew install --cask onyx
 # brew install --cask openconnect-gui
 brew install --cask raycast
 brew install --cask sublime-text
-brew install --cask vlc
+# brew install --cask vlc
 brew install --cask xnviewmp
+brew install --cask snipaste
 
 echo "And done..."
