@@ -35,5 +35,6 @@ brew install --cask sublime-text
 # brew install --cask vlc
 brew install --cask xnviewmp
 brew install --cask snipaste
+brew install --cask maccy
 
 echo "And done..."
