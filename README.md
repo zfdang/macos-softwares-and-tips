@@ -123,7 +123,18 @@ HyperKey + x: launch application by x (see key2App in key-bindings.lua, you can 
 {"option","Ctrl"} + down: screen brightness down
 ```
 
-## 4. 某些程序无法打开的问题
+## 4. 其他的一些优化：
+
+### oh-my-zsh
+
+https://gist.github.com/kevin-smets/8568070
+
+### vimrc
+
+https://github.com/amix/vimrc
+
+
+## 5. 某些程序无法打开的问题
 
 解决Mac安装软件的“已损坏，无法打开。 您应该将它移到废纸篓”问题
 
