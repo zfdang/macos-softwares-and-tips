@@ -1,10 +1,10 @@
 这里有一些推荐的免费软件：
 
-1. 截屏
+## 1. 截屏
 
 https://shottr.cc/
 
-2. 剪贴板
+## 2. 剪贴板
 
 Maccy
 
@@ -12,13 +12,16 @@ Maccy
 brew install maccy
 ```
 
-3. 应用程序删除
+## 3. 应用程序删除
 
 appcleaner
 
-可以通过brew安装：brew install appcleaner
+可以通过brew安装：
+```
+brew install appcleaner
+```
 
-4. 检查硬盘状态
+## 4. 检查硬盘状态
 
 smartmontools
 
@@ -72,4 +75,4 @@ Read 1 entries from Error Information Log failed: GetLogPage failed: system=0x38
 
 ```
 
-5. 
+## 5. 
