@@ -6,9 +6,11 @@ https://shottr.cc/
 
 2. 剪贴板
 
-ClipTools --> 在App Store里安装
+Maccy
 
-https://macmost.com/cliptools
+```
+brew install maccy
+```
 
 3. 应用程序删除
 
