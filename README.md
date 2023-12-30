@@ -39,6 +39,7 @@
 
 ## 3. MacOS全局快捷操作
 
+### karabiner
 使用karabiner-elements 和 HammerSpoon配合，可以实现如下功能：
 
 * 快捷键在多个屏幕之间挪动程序
@@ -58,7 +59,9 @@ karabiner-elements里HyperKey的设置：
   karabiner-config.md
 ```
 
+### HammerSpoon
 HammerSpoon可以参考这里的配置：
+
 > https://github.com/zfdang/hammerspoon-config
 
 ```
