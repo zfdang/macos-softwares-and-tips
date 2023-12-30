@@ -54,6 +54,10 @@ karabiner-elements里HyperKey的设置：
 
 ![Hyper Key](hyperkey.jpg)
 
+```
+  karabiner-config.md
+```
+
 HammerSpoon可以参考这里的配置：
 > https://github.com/zfdang/hammerspoon-config
 
