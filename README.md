@@ -23,6 +23,9 @@
 > Cisco AnyConnect Secure Mobility Client
 > 
 > ClashX Pro
+>
+> Clash Verge Rev
+> https://github.com/clash-verge-rev/
 
 ### brew
 
